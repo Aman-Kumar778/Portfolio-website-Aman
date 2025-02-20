@@ -1,20 +1,22 @@
 # Portfolio Website - Aman Kumar
 
-Welcome to my personal portfolio website! This project showcases my skills, experience, and projects in web development.
+Welcome to my personal portfolio website! This project showcases my skills, experience, and projects in web development and design.
 
 ## 🚀 Live Demo
-Check out the live version of my portfolio: [Portfolio Website](#)
+Check out the live version of my portfolio: [Portfolio Website](https://aman-kumar778.github.io/Portfolio-website-Aman/)
 
 ## 📌 Features
-- Responsive and interactive UI
-- Smooth animations and transitions
-- Projects showcase with descriptions and links
-- Contact form for easy communication
-- Tech stack details and skills section
-- Blog or additional achievements section (if included)
+- **Responsive Design**: Ensures optimal viewing on various devices.
+- **Dynamic Hero Section**: Engaging visuals with interactive elements.
+- **Service Offerings**: Detailed overview of services including Front-End Development, Back-End Development, Blockchain Development, and Video Editing.
+- **Project Showcase**: In-depth descriptions of recent projects with visuals and links.
+- **About Me Section**: Insights into my background, skills, and experiences.
+- **Contact Information**: Easy access to reach out via email or phone.
 
 ## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript
+- **Front-End**: HTML, CSS, JavaScript
+- **Back-End**: (If applicable, specify technologies used)
+- **Blockchain**: Ethereum, Polygon, Avalanche
 - **Other Tools**: Git, GitHub, VS Code
 
 ## 📂 Project Structure
@@ -29,6 +31,27 @@ Portfolio-website-Aman/
 
 ## 🎨 UI & Design
 The website follows a modern, clean design with responsive elements. It adapts to different screen sizes for an optimal experience on all devices.
+
+## 📂 Featured Projects
+### 1. **E-Commerce Website**
+- Built using React.js, Strapi, and Stripe.
+- Features product listings, search functionality, and checkout system.
+- Fully responsive and user-friendly.
+
+### 2. **IoT-Enabled Pollution Meter**
+- Uses Arduino and Blynk app to monitor real-time air quality.
+- Displays air pollution data on an LCD screen.
+- Alerts via LEDs for high pollution levels.
+
+### 3. **Maze Solver Algorithm**
+- Implements BFS and DFS algorithms to find optimal paths in a maze.
+- Visual representation using JavaScript.
+- Interactive user interface.
+
+### 4. **Blockchain-Based Projects**
+- Developed smart contracts using Solidity.
+- Integrated with front-end React applications.
+- Worked with Ethereum, Polygon, and Avalanche networks.
 
 ## 🖥️ Setup & Installation
 To run this project locally, follow these steps:
